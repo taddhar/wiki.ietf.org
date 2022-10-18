@@ -78,8 +78,8 @@ Location: West Wing, First Floor
 |  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
 |  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  TODO  | TBD    |                       |    
 |  18:30   |  Additional PQC Next Steps |   SEC       |             |                         |                      |                       |    
-|  19:00   |                  |          |             |                         |                      |                       |    
-|  19:30   |                  |          |             |                         |                      |                       |    
+|  19:00   | ECH concerned parties | SEC |  Arnaud Taddei (Arnaud.Taddei@broadcom.com and Andrew Campling (andrew.campling@419.consulting) | Discuss ECH Development and Next Steps | TBD  | TBD |    
+|  19:30   | ECH concerned parties | SEC |  Arnaud Taddei (Arnaud.Taddei@broadcom.com and Andrew Campling (andrew.campling@419.consulting) | Discuss ECH Development and Next Steps | TBD  | TBD | 
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
